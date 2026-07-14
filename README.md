@@ -1,9 +1,12 @@
-# About Me
+# About me
 
-Name: Saniya Taj
+# Hi, I'm Saniya Taj 👋
 
-Course: BCA
+I am a BCA student.
 
-Learning: GitHub and Python
+🌱 I am learning:
+- Git & GitHub
+- Python
 
-Goal: Become a skilled software developer.
+🎯 My goal:
+To become a Python developer.
